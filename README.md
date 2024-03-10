@@ -2,15 +2,16 @@
 StableDiffusionApp is an innovative Python application designed to harness the power of advanced AI technology to generate captivating images from textual prompts. Leveraging the cutting-edge Stable Diffusion model, this application empowers users to effortlessly create visually stunning images by simply inputting text descriptions.
 
 # Key Features
-Image Generation from Text Prompts: Seamlessly translate textual descriptions into captivating images using state-of-the-art AI algorithms.
+### Image Generation from Text Prompts:
+Seamlessly translate textual descriptions into captivating images using state-of-the-art AI algorithms.
 
-**Intuitive User Interface:**
+### Intuitive User Interface:
 Enjoy a user-friendly interface built with Tkinter, offering a smooth and interactive experience for users of all levels.
 
-**Stable Diffusion Model:** 
+### Stable Diffusion Model:
 Harness the power of the Stable Diffusion model, a cutting-edge deep learning architecture renowned for its ability to produce high-quality images.
 
-**Easy Setup and Execution:**
+### Easy Setup and Execution:
 With straightforward installation and execution processes, users can quickly set up and start using the application without any hassle.
 
 # Usage
